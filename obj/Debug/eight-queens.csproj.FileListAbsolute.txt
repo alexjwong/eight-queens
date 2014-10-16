@@ -1,0 +1,1 @@
+c:\users\alex\documents\visual studio 2013\Projects\eight-queens\bin\Debug\eight-queens.exe.config
