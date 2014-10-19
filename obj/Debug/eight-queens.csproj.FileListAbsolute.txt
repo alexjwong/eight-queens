@@ -1,1 +1,9 @@
 c:\users\alex\documents\visual studio 2013\Projects\eight-queens\bin\Debug\eight-queens.exe.config
+C:\Users\Alex\documents\visual studio 2013\Projects\eight-queens\bin\Debug\eight-queens.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\eight-queens\bin\Debug\eight-queens.pdb
+C:\Users\Alex\documents\visual studio 2013\Projects\eight-queens\obj\Debug\eight-queens.csprojResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2013\Projects\eight-queens\obj\Debug\eight_queens.Form1.resources
+C:\Users\Alex\documents\visual studio 2013\Projects\eight-queens\obj\Debug\eight_queens.Properties.Resources.resources
+C:\Users\Alex\documents\visual studio 2013\Projects\eight-queens\obj\Debug\eight-queens.csproj.GenerateResource.Cache
+C:\Users\Alex\documents\visual studio 2013\Projects\eight-queens\obj\Debug\eight-queens.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\eight-queens\obj\Debug\eight-queens.pdb
